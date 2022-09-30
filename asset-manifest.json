@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/seachpics-react/static/js/main.c1673c11.js",
+    "main.css": "/seachpics-react/static/css/main.bfb85879.css",
+    "main.js": "/seachpics-react/static/js/main.ae043b97.js",
     "index.html": "/seachpics-react/index.html",
-    "main.c1673c11.js.map": "/seachpics-react/static/js/main.c1673c11.js.map"
+    "main.bfb85879.css.map": "/seachpics-react/static/css/main.bfb85879.css.map",
+    "main.ae043b97.js.map": "/seachpics-react/static/js/main.ae043b97.js.map"
   },
   "entrypoints": [
-    "static/js/main.c1673c11.js"
+    "static/css/main.bfb85879.css",
+    "static/js/main.ae043b97.js"
   ]
 }
